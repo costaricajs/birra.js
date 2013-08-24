@@ -1,4 +1,4 @@
-beerjs
+birra.js
 ======
 
-beerjs logo by Christian Deliens  https://github.com/cdeliens
+birra.js logo by Christian Deliens  @cdeliens
